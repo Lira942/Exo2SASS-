@@ -1,0 +1,23 @@
+.img-txt{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    
+}
+.img-txt>div>img{
+    width: 350px;
+    border-radius: 50%;
+    // justify-items: center;
+}
+
+.txt-div>h3{
+    font-size: 50px;
+}
+
+.txt-div{
+    width: 400px;
+}
+
+// section{
+//     border: yellow solid 2px;
+// }

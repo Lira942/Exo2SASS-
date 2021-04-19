@@ -1,0 +1,23 @@
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+}
+// tel 
+@media (min-widht : 320px) and (max-width : 426px){
+
+}
+
+// tablet 
+@media (min-widht : 427px) and (max-width : 769px){
+
+}
+
+// laptop
+@media (min-widht : 770px) and (max-width : 1441px){
+
+}

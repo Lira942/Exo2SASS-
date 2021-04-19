@@ -1,0 +1,21 @@
+nav{
+    background-color: rgb(3, 3, 85);
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+}
+nav>div{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    justify-items: center;
+}
+
+nav>div>ul{
+    display: flex;
+    list-style: none;
+    width: 150px;
+    justify-content: space-evenly;
+    color: rgb(206, 204, 204);
+}

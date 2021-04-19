@@ -1,0 +1,75 @@
+nav {
+  background-color: #030355;
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+}
+
+nav > div {
+  list-style: none;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  justify-items: center;
+}
+
+nav > div > ul {
+  display: flex;
+  list-style: none;
+  width: 150px;
+  justify-content: space-evenly;
+  color: #cecccc;
+}
+
+header {
+  background-color: blue;
+  display: flex;
+  height: 500px;
+  width: 100%;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border: yellow solid 1px;
+  font-size: 35px;
+}
+
+button {
+  color: white;
+  background-color: #eb2929;
+  border: solid #eb2929 2px;
+  border-radius: 20%;
+  height: 60px;
+  width: 160px;
+}
+
+.img-txt {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.img-txt > div > img {
+  width: 350px;
+  border-radius: 50%;
+}
+
+.txt-div > h3 {
+  font-size: 50px;
+}
+
+.txt-div {
+  width: 400px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  width: 100%;
+  text-align: center;
+  height: 50px;
+}
+
+/*# sourceMappingURL=app.css.map */
